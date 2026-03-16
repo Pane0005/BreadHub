@@ -1,0 +1,2 @@
+Modify BreadAv.mac.desktop.command and in the line 3 put your username of the pc.
+Then make it executable with: chmod +x ~/Desktop/BreadAvLauncher.command

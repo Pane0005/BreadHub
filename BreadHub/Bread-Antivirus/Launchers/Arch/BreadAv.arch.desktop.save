@@ -1,0 +1,18 @@
+[Desktop Entry]
+Categories=Game;
+Comment[en_US]=Launch BreadAv in custom terminal
+Comment=Launch BreadAv in custom terminal
+Exec=konsole --hold -e /home/bread/Desktop/Bread-Antivirus/Launchers/Arch/launcher.sh.save
+GenericName[en_US]=
+GenericName=
+Icon=/home/bread/Downloads/Black_shield_logo-removebg-preview.png
+MimeType=
+Name[en_US]=BreadAv
+Name=BreadAv
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
